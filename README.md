@@ -111,7 +111,7 @@ pip install tensorflow pandas numpy scikit-learn matplotlib seaborn
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/wafex.git
+git clone https://github.com/saagarnkashyap/wafex.git
 cd wafex
 ```
 
@@ -195,7 +195,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-**Your Name**
+**Saagar N Kashyap**
 - GitHub: [@saagarnkashyap](https://github.com/saagarnkashyap)
 - LinkedIn: [Saagar N Kashyap](https://www.linkedin.com/in/saagar-n-kashyap/)
 - Email: saagarcourses@gmail.com
